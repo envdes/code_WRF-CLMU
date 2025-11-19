@@ -4,9 +4,9 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/user/Desktop/YuanSun-UoM/code_WRF-CLMU/4_illustration/Document fonts/AdobeFnt22.lst
-FileLength:2592
-FileModTime:780487303
+OutlineFileName:/Users/user/Desktop/envdes/code_WRF-CLMU/4_illustration/“20250831”文件夹/Document fonts/AdobeFnt22.lst
+FileLength:2415
+FileModTime:785237509
 %EndFont
 
 %BeginFont
@@ -25,7 +25,7 @@ FamilyNameNative:Adobe 宋体 Std
 StyleNameNative:L
 FullNameNative:Adobe 宋体 Std L
 WritingScript:SimplifiedChinese
-OutlineFileName:/Users/user/Desktop/YuanSun-UoM/code_WRF-CLMU/4_illustration/Document fonts/AdobeSongStd-Light.otf
+OutlineFileName:/Users/user/Desktop/envdes/code_WRF-CLMU/4_illustration/“20250831”文件夹/Document fonts/AdobeSongStd-Light.otf
 DataFormat:sfntData
 isCFF:yes
 hasSVG:no
@@ -53,7 +53,7 @@ WidthClass:5
 AngleClass:0
 FullName:Arial Bold
 WritingScript:Roman
-OutlineFileName:/Users/user/Desktop/YuanSun-UoM/code_WRF-CLMU/4_illustration/Document fonts/Arial Bold.ttf
+OutlineFileName:/Users/user/Desktop/envdes/code_WRF-CLMU/4_illustration/“20250831”文件夹/Document fonts/Arial Bold.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -76,7 +76,7 @@ WidthClass:5
 AngleClass:0
 FullName:Arial
 WritingScript:Roman
-OutlineFileName:/Users/user/Desktop/YuanSun-UoM/code_WRF-CLMU/4_illustration/Document fonts/Arial.ttf
+OutlineFileName:/Users/user/Desktop/envdes/code_WRF-CLMU/4_illustration/“20250831”文件夹/Document fonts/Arial.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -99,7 +99,7 @@ WidthClass:5
 AngleClass:0
 FullName:Times New Roman
 WritingScript:Roman
-OutlineFileName:/Users/user/Desktop/YuanSun-UoM/code_WRF-CLMU/4_illustration/Document fonts/Times New Roman.ttf
+OutlineFileName:/Users/user/Desktop/envdes/code_WRF-CLMU/4_illustration/“20250831”文件夹/Document fonts/Times New Roman.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
