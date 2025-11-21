@@ -1,5 +1,7 @@
 # code_WRF-CLMU
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17670406.svg)](https://doi.org/10.5281/zenodo.17670406)
+
 ## Introduction
 
 This repository is supplementary to the manuscript "Sun, Y., Oleson, K.W., He, C., & Zheng, Z. (2025). **Advancing CLMU for regional climate simulations through WRF coupling: intercomparison with NOAH–SLUCM**".
