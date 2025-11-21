@@ -10,6 +10,25 @@ The objectives of this project are:
 - Comparatively evaluate two single-layer urban canopy models (i.e., [CLMU](https://doi.org/10.1029/2018MS001586) and NOAH-SLUCM) in an atmosphere-land coupled mode;
 - Examine model sensitivity to urban parameters.
 
+## [WRF configuration](./0_WRF-CTSM_configuration)
+
+![workflow](./0_WRF-CTSM_configuration/workflow.png)
+
+### [WRF-CLMU](./0_WRF-CTSM_configuration/WRF-CLMU)
+
+- [WRF namelist](./0_WRF-CTSM_configuration/WRF-CLMU/namelist.d04.input.wrf-ctsm)
+- [CTSM namelist](./0_WRF-CTSM_configuration/WRF-CLMU/lnd_in)
+- [LILAC namelist](./0_WRF-CTSM_configuration/WRF-CLMU/lilac_in)
+
+### [WRF-SLUCM](./0_WRF-CTSM_configuration/WRF-SLUCM)
+
+- [WRF namelist](./0_WRF-CTSM_configuration/WRF-SLUCM/namelist.d04.input.wrf)
+
+### Reference
+
+- [UCAR.CTSM-LILAC User's Guide](https://escomp.github.io/CTSM/lilac/index.html)
+- [CTSM-Norway. WRF-CTSM](https://metos-uio.github.io/CTSM-Norway-Documentation/wrf-ctsm/)
+
 ## Script and data
 
 ### [1_input_data_description](./1_input_data_description/)
